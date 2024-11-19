@@ -4,6 +4,12 @@ Um aplicativo simples e elegante para gerar mensagens motivacionais, dicas inspi
 
 ## 📸 Captura de Tela
 
+![Print 1](/src/assets/img/print-1.png)
+![Print 2](/src/assets/img/print-2.png)
+![Print 3](/src/assets/img/print-3.png)
+
+Essas imagens demonstram a captura de tela e mostram a responsividade com estilo.
+
 ## 🚀 Recursos
 
 - **Design Responsivo:** Otimizado para dispositivos móveis e desktops.
