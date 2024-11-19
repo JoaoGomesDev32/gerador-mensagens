@@ -1,23 +1,28 @@
 <template>
   <v-app>
     <v-main>
-      <HelloWorld/>
+      <MessageGenerator />
     </v-main>
   </v-app>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import MessageGenerator from './components/MessageGenerator.vue';
 
 export default {
   name: 'App',
-
   components: {
-    HelloWorld,
+    MessageGenerator,
   },
-
-  data: () => ({
-    //
-  }),
-}
+};
 </script>
+
+<style>
+  body {
+  font-family: 'Poppins', sans-serif;
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+  color: white;
+}
+</style>
