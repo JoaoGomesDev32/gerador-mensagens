@@ -105,6 +105,6 @@ Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes
 
 ## 🌐 Contato
 
-- 📧 Email: joao.gomes@example.com
-- 💼 LinkedIn: [João Gomes](https://www.linkedin.com/in/joao-gomes)
+- 📧 Email: joaogomesdev32@gmail.com
+- 💼 LinkedIn: [João Silva](https://www.linkedin.com/in/joaofelipedev32/)
 
